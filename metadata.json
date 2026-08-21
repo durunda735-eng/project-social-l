@@ -1,0 +1,6 @@
+{
+  "name": "Social Link Hub",
+  "description": "Drag-and-drop link-in-bio website builder with social redirect buttons, customizable themes, and live preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
